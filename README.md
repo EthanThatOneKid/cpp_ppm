@@ -18,6 +18,10 @@ bash run.sh
 
 - View PPM file in Code: <https://marketplace.visualstudio.com/items?itemName=ngtystr.ppm-pgm-viewer-for-vscode>.
 
+## References
+
+- <https://raytracing.github.io/books/RayTracingInOneWeekend.html>
+
 ---
 
 Programmed with 💖 for CPSC 484 at CSUF.
